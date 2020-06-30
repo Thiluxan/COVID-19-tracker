@@ -1,0 +1,16 @@
+{
+  "name": "covid-19-tracker",
+  "version": "1.0.0",
+  "description": "Simple COVID-19 tracker app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Thiluxan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4"
+  }
+}
